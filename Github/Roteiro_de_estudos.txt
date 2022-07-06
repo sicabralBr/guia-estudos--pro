@@ -1,0 +1,5 @@
+- Iniciar pelos comandos básicos:
+  - git status
+  - git add .
+  - git commit -m "Add aqui o seu comentário relevante e coerente"
+  - git push origin main
