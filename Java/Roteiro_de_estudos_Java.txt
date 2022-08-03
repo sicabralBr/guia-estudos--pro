@@ -1,2 +1,6 @@
 1 - entender a história da linguagem Java;
-2 - 4 ou 5 pilares da POO?
+2 - objeto, classe, herança, polimorfismo, abstração e encapsulamento
+3 - 4 pilares da POO: abstração, encapsulamento, herança e polimorfismo
+4 - tipos de dado estático ou dinâmico, primitivo ou composto, - int, long, float, double, char, String, boolean ou objetos
+5 - operadores matemáticos: ++, --, *, %, /, +, -, =, +=, -=, *=, /= e %=
+6 - casting: upcast(implícito) e downcast(explícito)

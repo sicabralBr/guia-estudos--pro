@@ -1,0 +1,15 @@
+1 - Tipos de variáveis:
+  . Instância: objeto;
+  . Classe: classe;
+  . Local: dentro de métodos;
+  . Parâmetro: Na assinatura do método;
+
+2 - Padrão de definição:
+
+  <?visibilidade?> <?modificador?> tipo nome <?=valorInicial?>;
+
+visibilidade: "public", "protected" e "private"	
+modificador: "static" e "final"
+tipo: tipo de dado
+nome: nome da variável
+valorInicial: valor inicial, caso exista
